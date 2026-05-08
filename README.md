@@ -13,6 +13,6 @@ GP Referral and Referral - Patient should receive the majority of acquisition in
 Paid Social and Corporate Partnership both return less than €1 for every €1 spent. Without further data it is not possible to determine the root cause. A dedicated analysis of these two channels is recommended to identify whether the issue is correctable, if not, ceasing investment should be considered.
 
 ## Tools
-SQL · Power BI 
+SQL · DBeaver · Power BI 
 
 <img width="1322" height="754" alt="Screenshot 2026-05-08 at 8 02 55 AM" src="https://github.com/user-attachments/assets/7fc1fba1-bd09-4680-920d-45234495f2ec" />
